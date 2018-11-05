@@ -1,5 +1,5 @@
 createdAt: "2018-11-01T21:56:27.670Z"
-updatedAt: "2018-11-02T00:52:36.049Z"
+updatedAt: "2018-11-05T15:31:20.106Z"
 type: "MARKDOWN_NOTE"
 folder: "d3bb5fa6d65a439316ea"
 title: "UI Automation Frameworks"
@@ -11,4 +11,4 @@ content: '''
 '''
 tags: []
 isStarred: false
-isTrashed: false
+isTrashed: true

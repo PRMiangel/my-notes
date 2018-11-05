@@ -1,0 +1,33 @@
+createdAt: "2018-11-01T20:31:04.324Z"
+updatedAt: "2018-11-01T20:39:01.868Z"
+type: "MARKDOWN_NOTE"
+folder: "260c32d39d41f8406d07"
+title: "Docker Resources"
+content: '''
+  # Docker Resources
+  
+  
+  
+  [Play with Docker](https://labs.play-with-docker.com/)
+  
+  
+  
+  ## Docs
+  [Docker Documentation](https://docs.docker.com/)
+  
+  
+  
+  
+  ## Training
+  [Docker & Containers](https://www.katacoda.com/)
+  [Play with Docker Classroom](https://training.play-with-docker.com/)
+  
+  
+  
+  
+  
+  
+'''
+tags: []
+isStarred: false
+isTrashed: false

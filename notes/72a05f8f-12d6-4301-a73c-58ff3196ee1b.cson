@@ -1,0 +1,29 @@
+createdAt: "2018-11-01T20:28:39.276Z"
+updatedAt: "2018-11-01T20:49:08.368Z"
+type: "MARKDOWN_NOTE"
+folder: "260c32d39d41f8406d07"
+title: "Docker Commands"
+content: '''
+  # Docker Commands
+  
+  
+  
+  
+  
+  docker ps
+  
+  docker rm
+  
+  
+  
+  docker ps => Shows running containers
+  docker ps -a => Shows containers
+  
+  docker images => Shows existing images in the system
+  docker run  => Runs a container
+'''
+tags: [
+  "docker"
+]
+isStarred: false
+isTrashed: false

@@ -1,0 +1,25 @@
+createdAt: "2018-11-01T20:30:10.941Z"
+updatedAt: "2018-11-01T20:35:58.582Z"
+type: "MARKDOWN_NOTE"
+folder: "260c32d39d41f8406d07"
+title: "Samples"
+content: '''
+  # Samples
+  
+  
+  
+  ```
+  docker run -it ubuntu /etc/echo "Hello Docker"
+  ```
+  
+  ```
+  docker run -it danielkraic/asciiquarium
+  ```
+  
+  
+  
+  
+'''
+tags: []
+isStarred: false
+isTrashed: false

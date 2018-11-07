@@ -1,0 +1,32 @@
+createdAt: "2018-11-07T00:46:35.842Z"
+updatedAt: "2018-11-07T01:17:08.040Z"
+type: "MARKDOWN_NOTE"
+folder: "d3bb5fa6d65a439316ea"
+title: "JS Automation"
+content: '''
+  # JS Automation
+  
+  
+  
+  
+  - [ ] [selenium-webdriver](https://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/)
+  - [ ] [WebdriverIO - WebDriver bindings for Node.js](http://webdriver.io/)
+  - [ ] [Introduction · Enzyme](https://airbnb.io/enzyme/)
+  - [ ] [Sinon.JS - Standalone test fakes, spies, stubs and mocks for JavaScript. Works with any unit testing framework.](https://sinonjs.org/)
+  - [ ] [Nightwatch.js \\| Node.js powered End-to-End testing framework](http://nightwatchjs.org/)
+  - [ ] [Headless Chrome Node API](https://pptr.dev/)
+  - [ ] [JavaScript End to End Testing Framework \\| Cypress.io](https://www.cypress.io/)
+  - [ ] [PhantomJS - Scriptable Headless Browser](http://phantomjs.org/)
+  - [ ] [Protractor - end-to-end testing for AngularJS](http://www.protractortest.org/#/)
+  - [ ] [CasperJS, a navigation scripting and testing utility for PhantomJS and SlimerJS](http://casperjs.org/)
+  - [ ] [Nemo](http://nemo.js.org/)
+  - [ ] [Welcome! Buster.JS is... — Buster.JS 0.7 documentation](http://docs.busterjs.org/en/latest/)
+  - [ ] [DalekJS - Automated cross browser testing with JavaScript](http://dalekjs.com/)
+  - [ ] 
+  
+  
+  
+'''
+tags: []
+isStarred: false
+isTrashed: false

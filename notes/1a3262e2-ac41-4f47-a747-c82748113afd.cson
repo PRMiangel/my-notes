@@ -1,0 +1,28 @@
+createdAt: "2018-11-05T23:40:48.047Z"
+updatedAt: "2018-11-06T00:06:45.511Z"
+type: "MARKDOWN_NOTE"
+folder: "260c32d39d41f8406d07"
+title: ""
+content: '''
+  #
+  
+  
+  
+  
+  ## Funtions compatibility
+  * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+  * [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
+  
+  
+  ## Requirement
+  * [Node.js](https://nodejs.org/en/)
+  
+  
+  ## Editor
+  * [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+  
+  
+'''
+tags: []
+isStarred: false
+isTrashed: false

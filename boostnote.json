@@ -9,6 +9,11 @@
       "key": "d3bb5fa6d65a439316ea",
       "color": "#E10051",
       "name": "automation"
+    },
+    {
+      "key": "c41a1c89bfa592fd431f",
+      "color": "#E10051",
+      "name": "javascript"
     }
   ],
   "version": "1.0"
